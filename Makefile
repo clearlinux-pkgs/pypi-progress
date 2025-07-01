@@ -1,5 +1,5 @@
 PKG_NAME := pypi-progress
-URL = https://files.pythonhosted.org/packages/2a/68/d8412d1e0d70edf9791cbac5426dc859f4649afc22f2abbeb0d947cf70fd/progress-1.6.tar.gz
+URL = https://files.pythonhosted.org/packages/ac/26/3b086f0c5d6c1c18c2430d6fac3a99d79553884ca6cdf759cf256dd43b7d/progress-1.6.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
